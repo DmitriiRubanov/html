@@ -222,7 +222,7 @@ def results(nickname, level, rating):
                     integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" 
                     crossorigin="anonymous">
                     <link rel="stylesheet" type="text/css" href="{url_for('static', filename='css/style.css')}" />
-                    <title>Колонизация</title>
+                    <title>Результаты</title>
                   </head>
                   <body>
 <h1>Результаты отбора</h1>
